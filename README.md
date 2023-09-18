@@ -11,3 +11,7 @@ O site foi desenvolvido exclusivamente utilizando tecnologias web front-end, HTM
 - HTML5: A estrutura do site foi desenvolvida usando HTML5, garantindo uma marcação semântica e acessível.
 
 - CSS3: Todo o estilo do site foi implementado com CSS3, criando um layout atraente e responsivo.
+
+## Como acessar o site
+
+Para acessar o site basta <a href="https://joaopedro-monteiro.github.io/Desafio-Site-Android-v2/android.html" target="_blank">Clique aqui</a>
