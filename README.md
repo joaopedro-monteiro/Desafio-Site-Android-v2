@@ -14,4 +14,4 @@ O site foi desenvolvido exclusivamente utilizando tecnologias web front-end, HTM
 
 ## Como acessar o site
 
-Para acessar o site basta <a href="https://joaopedro-monteiro.github.io/Desafio-Site-Android-v2/android.html" target="_blank">Clique aqui</a>
+Para acessar o site <a href="https://joaopedro-monteiro.github.io/Desafio-Site-Android-v2/android.html" target="_blank">Clique aqui</a>
